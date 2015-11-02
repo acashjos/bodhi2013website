@@ -1,2 +1,0 @@
-[29-Sep-2013 19:00:55 Europe/Moscow] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodhi_chayachitra'@'localhost' (using password: YES) in /home/bodhi/public_html/prelims/chayachitra/core/connect.php on line 34
-[29-Sep-2013 19:12:56 Europe/Moscow] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodhi_photo'@'localhost' (using password: YES) in /home/bodhi/public_html/prelims/bhavachitra/core/connect.php on line 34
