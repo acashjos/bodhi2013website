@@ -1,0 +1,71 @@
+﻿##Ranabhoomi (Gaming) - NFS
+
+#DESCRIPTION:
+Choose your ride.Customize it.Go for a spin. Find your strength.Play hard.Be the Most Wanted!!! 
+Registration fees: Rs. 100 per head.
+
+#EVENT FORMAT
+A knockout tournament structure will be followed.
+There will be 3 rounds - Qualification rounds, Semi and Final rounds.
+4 players will battle against each other.
+
+#RULES 
+General Rules:
+Players can change the controls for according to their preferences provided they inform the referee.
+Players can choose their cars, customize them and modify them.
+Participants are not allowed to use their own profiles.
+Players will be given 2 minutes to setup the car and its performance before the game.
+Qualification Round:
+All participants will play one round of Sprint and winner qualifies for semi finals.
+Race course: NFS World Loop
+At the end of each match, players must maintain the final screens and receive confirmation from a referee.
+Common Rules for Semi-finals and Finals:
+Game Type: Circuit and Sprint
+No. of Laps: 3
+Courses: Courses will be given at random and will be given on the spot.
+All qualifying participants will compete against each other on LAN.
+
+
+Semi-Finals:
+Courses: Circuit courses will be given as spot
+The winner of a race is the first player to complete the circuit course.
+The winner qualifies to final rounds.
+
+Finals:
+Courses:Sprint and Circuit courses will be given on spot.
+Winning a race: The winner of a race is the first player to complete course and cross the finish line.
+Winning the tournament: A player winning 3 races out of 5 will be the "WINNER" of the tournament.
+
+Race Settings:
+    	a. Track Direction : Forward/Backward
+    	b. LAPS : 3
+    	c. N20 : On
+    	d. Collision Detection : Off
+    	e. Performance Matching : On
+Other specifications:
+Cheat programs are not allowed. Use of Junkman upgrades is not allowed. Use of any settings exceeding standard and permitted settings is not allowed. Any malpractices will not be tolerated.
+If the match is disrupted due to unnecessary chatting, the player may be given a warning or lose by default at the referee's sole discretion. 
+Any disconnection of the connection between matches players due to System, Network, PC, and/or Power problems/issues results into a restart of match. If any player does not agree to a match restart, that player will lose by default.
+Intentional disconnection will not be tolerated. Upon judgment by the referee, any offending player will be charged with a loss by forfeit.
+ 
+#PRIZE MONEY:
+1st  PRIZE  : Rs. 5,000 
+2nd PRIZE  : Rs. 3,000
+3rd PRIZE  : Rs. 1,000
+
+#VENUE:
+C.S SEMINAR HALL(D-203) 
+
+#TIME & DATE:
+SEPT 30 and OCT 1 (10.00AM to 4.30PM) 
+
+#STAFF COORDINATORS:
+AmelAustine
+Andrews Jose
+Shibu K R
+
+#STUDENT COORDINATORS:
+Fabin Paul 
+Mob: 9495262443
+John Varghese
+Mob: 9847610514

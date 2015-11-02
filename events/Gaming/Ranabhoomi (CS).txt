@@ -1,0 +1,47 @@
+﻿##Ranabhoomi (Gaming) - Counter Strike
+
+#DESCRIPTION:
+Counter Strike 1.6
+Registration fees: Rs. 500 per team.
+
+#RULES:
+1.   Team event (5 members per team) 
+2.   Maximum of 20 rounds will be played, 10 rounds as Terrorist and 10 rounds as Counter-terrorists per team. 
+3.   Tournament Structure: A knockout tournament structure will be used.
+4.   Victory Condition:The first team to win 11 rounds wins. 
+5.   Round Time: 2 Minutes, Freeze Time : 10 Seconds, Buy Time :15 Seconds.
+6.   Counter Strike, Terrorist will be decided before the match or decided by knifing.
+7.   In case of a tie, 6 extra rounds will be played (3 as Terrorists and 3 as Counter-Terrorists per team).
+8.   Official Maps:De_Dust2,De_Inferno,De_Nuke,De_Train. Players will be informed before  the tournament about any modification in this regard.
+9.   Approved Grenade Amounts Per round:
+      a) Flashbangs: 2 
+      b) Grenades: 1
+      c) Smoke Grenades: 1
+10. Approved Commandes:
+      a) Adjust Crosshair Size.
+      b) Left hand.
+      c) Default Skins to be used.
+11. Any other use of  map or program bugs can result in warning at the minimum or disqualification. 
+12. Players are advised to bring along their own mouse and headsets, though the same will be provided at the venue.
+
+#PRIZE MONEY:
+1st  PRIZE  : Rs. 7,000 
+2nd PRIZE  : Rs. 3,000
+
+#VENUE:
+CS PROJECT Lab(A BLOCK)
+
+#TIME & DATE:
+ SEPT 30 (10.00AM to 4.30PM)
+
+#STAFF COORDINATORS:
+Mr. Shanthanu P M 
+Mob: 9895485975
+Ms. Annpreetha J 
+Mob: 9946641293
+
+#STUDENT COORDINATORS:
+Lino Jose (S7 IT)
+Mob: 9446028948
+Jithu Shaju (S5 IT)
+Mob: 9633751890

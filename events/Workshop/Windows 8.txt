@@ -1,0 +1,29 @@
+##Windows 8 App Development Workshop
+
+#DESCRIPTION:
+Its easier than you think to create a Windows 8 App. We'll provide the tools you need and guide you to create your own apps & publish them in the Windows Store. Come join us in the one day workshop on Windows 8 App Development. No prior app development experience necessary.
+ 
+#PREREQUISITES:
+1. Basic programming knowledge
+2. Laptop running Windows 8(Developer tools needed will be provided).
+
+#REGISTER:
+Register for this workshop here :- <a href="http://goo.gl/3pzDrW" target="_blank">http://goo.gl/3pzDrW</a>
+
+#VENUE:
+Gallery Room No.1,
+MBA Block,
+VJCET
+
+#SCHEDULE:
+(Monday, 30th September 2013)
+10.00-10.30 : Introduction 
+10.30-12.30 : Windows 8 App Development Workshop Phase 1 (Theory Session)
+12.30-13.30 : Break
+13.30-16.00 : Windows 8 App Development Workshop Phase 2 (Practical Session)
+
+#CONTACT:
+Dijo Varghese
+Mob:9496356525
+Nithin Tomson
+Mob:9446935679

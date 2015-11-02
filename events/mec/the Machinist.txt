@@ -1,0 +1,35 @@
+##The Machinist
+
+#DESCRIPTION:
+Individual event only for mechanical/production engineering students. They had to make the given model using the various machining process available in machine tool lab within specified time.
+
+#RULES:
+ 
+o The candidates will be fined for any damages caused to the equipments provided. 
+o The candidates wont be allowed to leave the hall once the competition gets started.
+o Maximum time allowed for the completion of given task is 150 minutes.
+o The one who complete the task in least time with maximum perfection will be declared as the winner.
+o Decision of the judges will be final.
+o Incase of any dispute EVENT COORDINATORS will take the final decisions.
+o We are not responsible for any material or data loss, mental or physical harm that may be caused while participating in the event.
+o All participants should present their college ID cards.
+
+ 
+#PRIZE MONEY:
+ Rs.9000 (5:3:1). Consolation prize of Rs.1000 for three participants.
+
+#VENUE:
+MACHINE TOOL LAB
+
+#TIME & DATE:
+9.00AM -11.30 PM, October 1, 2013 
+
+#STAFF COORDINATORS:
+Nebu Jacob,
+Ajo Issac John
+
+#STUDENT COORDINATORS:
+Dijith Davy (S7ME)
+Mob: 9745537326
+George John (S3ME)
+

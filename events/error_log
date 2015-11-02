@@ -1,0 +1,58 @@
+[23-Sep-2013 21:33:45 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:33:45 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:34:14 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:34:14 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:34:18 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:34:18 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:34:33 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:34:33 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:35:04 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:35:04 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:36:23 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:36:23 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:37:08 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:37:08 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:43:02 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:43:02 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:43:58 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:43:58 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:47:39 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:47:39 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:49:01 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:49:01 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:55:55 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:55:55 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 21:59:46 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 21:59:46 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:00:07 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:00:07 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:00:13 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:00:13 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:00:45 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:00:45 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:11:21 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:11:21 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:13:27 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:13:27 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:14:45 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:14:45 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[23-Sep-2013 22:16:07 Europe/Moscow] PHP Warning:  fopen(IT/Prashnothari .txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[23-Sep-2013 22:16:07 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[26-Sep-2013 18:03:31 Europe/Moscow] PHP Warning:  fopen(ec/PRASNOTHARA.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[26-Sep-2013 18:03:31 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[26-Sep-2013 18:03:34 Europe/Moscow] PHP Warning:  fopen(ec/PRASNOTHARA.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[26-Sep-2013 18:03:34 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[26-Sep-2013 22:18:20 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0
+[26-Sep-2013 22:18:21 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0
+[27-Sep-2013 17:13:16 Europe/Moscow] PHP Warning:  fopen(.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[27-Sep-2013 17:13:16 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[28-Sep-2013 07:07:50 Europe/Moscow] PHP Warning:  fopen(.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[28-Sep-2013 07:07:50 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[28-Sep-2013 09:44:47 Europe/Moscow] PHP Warning:  fopen(.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[28-Sep-2013 09:44:47 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[28-Sep-2013 12:22:28 Europe/Moscow] PHP Warning:  fopen(.txt) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/bodhi/public_html/events/fetch.php on line 2
+[28-Sep-2013 12:22:28 Europe/Moscow] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /home/bodhi/public_html/events/fetch.php on line 3
+[28-Sep-2013 16:27:02 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0
+[28-Sep-2013 16:27:02 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0
+[28-Sep-2013 17:58:03 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0
+[28-Sep-2013 17:59:54 Europe/Moscow] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 523800 bytes) in Unknown on line 0

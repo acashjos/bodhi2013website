@@ -1,0 +1,33 @@
+##Smrithishastra (Reverse Coding) 
+
+#DESCRIPTION:
+Reverse coding tests your logical thinking and your programming skills. If you think you are up for it, we give you a chance to win money doing it. In this event you will be given a C executable file, use your mind,find how the program works and try your best to recreate it. 
+
+#RULES:
+<li>The languages c/c++/python/java can be used.</li>
+<li>Use of mobile phones are not allowed and any such use will lead to disqualification..</li>
+<li>Any access of internet will lead to disqualification..</li>
+<li>A team of maximum two members is only allowed. .</li>
+<li>Judges Decision Shall be final..</li>
+
+#PRIZE MONEY:
+1st PRIZE:Rs. 5,000 
+2nd PRIZE:Rs. 3,000
+3rd PRIZE:Rs. 1,000
+
+#VENUE:
+CS PG Lab 1(D-304)
+
+#TIME & DATE:
+Prelims: 10:00 am-1:00 pm	finals: 2:00 pm-4:00 pm(30th september)
+
+#STAFF COORDINATORS:
+Rini Simon
+Arsha J K
+Nimmy George
+
+#STUDENT COORDINATORS:
+Steve Emmanuel 
+Mob: 8907034735
+Amal Francis 
+Mob: 8907303814

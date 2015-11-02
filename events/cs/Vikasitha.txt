@@ -1,0 +1,34 @@
+##Vikasitha (Android App Development) 
+
+#DESCRIPTION:
+Do you believe you are the best in android app development? Are you ready to have fun time coding?If you think you are one among them, here is your chance to show case your talents. Meet and compete with the best Android Developers and Win the Money.
+
+#RULES:
+<li>There will be a preliminary screening round to filter the number of participants if there is more than 10 participants. </li>
+<li>The preliminary round will be simple android and java based objective questions.</li> 
+<li>During final your android development skills will be put to test.</li>
+<li>The development and running of the application is done in Eclipse.</li>
+<li>App will be evaluated and tested in emulator.</li>
+<li>Computers with eclipse installed in it will be provided. </li>
+
+#PRIZE MONEY:
+1st PRIZE:Rs. 5,000 
+2nd PRIZE:Rs. 3,000
+3rd PRIZE:Rs. 1,000
+
+#VENUE:
+CS Network Lab(C lab)
+
+#TIME & DATE:
+Prelims: 10:00 am -12:30 pm	Finals: 1:30 pm- 4:30 pm (30th September)
+
+#STAFF COORDINATORS:
+Jobin Jose
+Mili Els Jose
+Bency Cleetus
+
+#STUDENT COORDINATORS:
+Jithin John 
+Mob: 9447084871
+Mathew Sebastian 
+Mob: 7736613854

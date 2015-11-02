@@ -1,0 +1,21 @@
+##Windows 8 App Development Workshop
+
+#DESCRIPTION:
+A one day workdhop on Windows 8 app development.
+ 
+#VENUE:
+ 
+
+#TIME & DATE:
+ 
+
+#STAFF COORDINATORS:
+Sivadas T Nair
+Clinta Mary Mathew
+Alphonsa Kuriakose
+
+#STUDENT COORDINATORS:
+Dijo Varghese 
+Mob: 9496356525
+Nithin Tomson
+Mob: 9446935679

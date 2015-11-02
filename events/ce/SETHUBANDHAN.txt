@@ -1,0 +1,46 @@
+##SETHUBANDHAN
+
+#DESCRIPTION:
+Trestle: Bridge it
+Bridges are one of the most useful and magnificent structures of the modern civilization. With ever improving designs bridges carry immense loads daily and are also expected to handle incidental loads due to natural calamities. We bring you a bridge making competition that would test your ability to design and construct the most efficient bridge within the specifications. Model bridges are intended to be simplified versions of real world bridges, which are designed to accept.
+
+#RULES:
+1)  Form a group of two; all two participants must be from the same educational institution.
+2)  The participants must carry valid identity card of the institution to which they belong to; failing which they will not be allowed to take part in the event.
+3)  The bridge must be constructed only from Popsicle sticks and Fevicol white adhesives.
+4)  Sticks may be cut or trimmed to any shape or size.
+5)  Bridge failure is defined as the inability of the bridge to carry additional load.
+ 
+#DESIGN CRITERIA:
+1)  The choice of the type of bridge is upon the discretion of participant.
+2)  The bridge shall be of single deck, though which a vehicle of width 100mm and height 100mm can move.
+3)  Clear span between the supports shall be 600mm and width 120mm.
+4)  The deck shall be continuous and height of the bottom of deck shall be 150mm from the ground level.
+ 
+#TESTING PROCEDURE:
+1)  A vehicle of dimension 100mm x 100mm x 100mm and weights 50kg will pass through the deck.
+2)  The bridge will be loaded at mid span and deflection shall be recorded.
+3)  The bridge obtaining highest Load Bearing Capacity(LBC) shall be selected to the first position.
+4)  Load bearing capacity will be calculated as follows:
+       LBC = [Load taken for failure (kg)] / [Deflection at Mid Point(mm) x Self weight of the bridge(kg)]
+5)  Result will be based on the perfection in crafting (25%contribution) and LBC(75% contribution).
+
+#PRIZE MONEY:
+1ST PRIZE  : Rs. 10,000
+
+#VENUE:
+Material(Concrete) Testing Laboratory (L-209)
+
+#TIME & DATE:
+September 30, 10.30am – 11.30am
+
+ 
+#STAFF COORDINATORS:
+Mr. Arun Das
+Mob: 9605537748
+
+#STUDENT COORDINATORS:
+Mr. Vineeth P V, S5 CE 
+Mob: 8547574790
+Ms. Jiya Albert, S7 CE
+Ms. Krishna Sunil, S5CE

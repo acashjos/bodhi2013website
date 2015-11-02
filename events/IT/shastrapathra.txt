@@ -1,0 +1,58 @@
+﻿##SHASTRAPATHRA (Paper Presentation)
+
+#DESCRIPTION:
+An event to showcase comprehensive knowledge and ability to make people understand it.
+
+#RULES:
+1)  The rules mentioned in this <a href="http://www.bit.ly/gen_rules">link</a> are applicable.
+2)  Maximum time: 15 mins (Presentation) & 5 mins (Q&A session)
+3)  Individual event
+4)  Paper that has not been presented till date or that have not been validated by any authorized personnel or institution cannot be presented.
+5)  The presentation should be made using Microsoft powerpoint (ppt/pptx).
+6)  The participants should have both soft and hard copy of the presentation.
+7)  The abstract along with the contact details should be emailed on or before 27th September. <b>email : bodhi2k13@gmail.com</b>
+8)  Selected participants will be informed on 28th September.
+
+#ABSTRACT FORMAT:
+1)  A4 size paper
+2)  12 points Times New Roman for the main text and smaller fonts for figure captions.
+3)  Start the first line leaving the space of 2.5 cm or 1.0 inch on the upper side.
+4)  Title, author's names, should be centred.
+5)  Insert one blank line between the authors name and the main text.
+6)  Use bold face with bigger fonts for title but not for authors, and the main text.
+7)  Underline the presenting author.
+8)  Include references at the end.
+
+#PAPER FORMAT:
+1)  The paper should be in IEEE format.
+2)  The front page should have title of paper on the top and the details of the team members (as mentioned in the abstract) at the bottom.
+3)  It should have abstract and certificate attached after front page.
+4)  Font style for text: Times New Roman
+5)  Font size for text: 12 points
+6)  Font size for headings: 18 points
+7)  Font size for sub-headings: 14 points
+
+#PRIZE MONEY:
+1ST  PRIZE  : Rs. 6,000 
+2ND  PRIZE : Rs. 3,000
+3RD  PRIZE : Rs. 1,000
+
+#VENUE:
+Programming Lab (A-202)
+
+#TIME & DATE:
+30th September, 10:00 am - 2:00 pm
+ 
+#STAFF COORDINATORS:
+Ms. Juliet A Murali
+Mob: 9747414217
+
+Ms. Diana Baby 
+Mob: 9497794433
+
+#STUDENT COORDINATORS:
+Jitto Joseph
+Mob: 8714228148
+
+Anju George
+Mob: 9446608608

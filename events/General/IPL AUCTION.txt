@@ -1,0 +1,45 @@
+﻿##IPL AUCTION
+
+#DESCRIPTION:
+An event associated with indian premier league, which involves auctioning of both national and foreign players. In this auction each team participating will be provided with a certain budjet which must be used for economic bidding of players with maximum rating points. The player will be sold to the highest bidding team. The team that ends up with 11 players having maximum rating points will be scheduled as the winner.
+
+#RULES:
+1)  The objective of the game is to make the best 11 possible from list of players provided.
+2)  Each team will be provided with the list of players at the beginning of the auction. 
+3)  The players have been divided into 3 groups namely A,B,C.
+4)  Players coming under various groups will have the following points-
+      GROUP A: 86-100
+      GROUP B: 71-85
+      GROUP C: 56-70
+5)  Each team will be allotted a total sum of Rs 50 crores to bid for the players they wish to buy.
+6)  Each team can have a maximum of 4 foreign players and a minimum of 7 indian players.
+7)  Each team must have a wicket keeper, an all rounder, a spinner and a maximum of 2 fast bowlers.
+8)  The captain of the team must be named and the captain must have lead either an IPL team or his national side.
+9)  The team can have any number of all-rounders and the nameof the main all-rounder must be specified who’s batting and bowling points will be considered and the other all-rounder will be considered only as either batsman or bowler as mentioned by the team.
+10) The team that ends up with the maximum points wins the game.
+11) ARGUMENTS OF ANY SORTS WILL NOT BE ENTERTAINED.
+
+#PRIZE MONEY:
+1st price –Rs 4000
+2nd price – Rs 2000
+
+#VENUE:
+Class no:C104
+
+#TIME & DATE:
+30th september  2014 (9:30 -1:30)
+
+ 
+#STAFF COORDINATORS:
+Mr. Jacob mathai (asst. professor – IT)
+Mob: 9847972818
+Mrs. Jane Maria S (asst. professor – EEE)
+Mob: 9946305217
+
+#STUDENT COORDINATORS:
+Arun Louis (s7 me)
+Mob: 9562095796
+Aju James(s7 me)
+Mob: 9496452913
+Allen George(s7 me)
+Mob: 9496802891

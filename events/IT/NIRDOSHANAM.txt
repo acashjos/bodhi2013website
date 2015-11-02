@@ -1,0 +1,36 @@
+﻿##NIRDOSHANAM (C Debugging)
+
+#DESCRIPTION:
+Let's dive into the sea of code. As you all will be surrounded by code wizards, we are giving you all a chance to get a face to face competition and to show your aptitude and preciseness in debugging.
+
+#RULES:
+1)  The rules mentioned in this <a href="http://www.bit.ly/gen_rules">link</a> are applicable.
+2)  Maximum time: 2 hrs
+3)  Individual event
+4)  Programming language: C
+5)  The best programmers are measured by conceptual creativity, speed, ingenuity of design or problem solving ability.
+
+#PRIZE MONEY:
+1ST  PRIZE  : Rs. 6,000 
+2ND  PRIZE : Rs. 3,000
+3RD  PRIZE : Rs. 1,000
+
+#VENUE:
+DBMS (B-104)
+
+#TIME & DATE:
+1st October, 9:30 am - 2:00 pm
+
+#STAFF COORDINATORS:
+Ms. Achila T S
+Mob: 9946343433
+
+Ms. Tiny Molly V
+Mob: 9747821188
+
+#STUDENT COORDINATORS:
+Lejin Joseph
+Mob: 8893892322
+
+Reshma Anilkumar
+Mob: 9447383773

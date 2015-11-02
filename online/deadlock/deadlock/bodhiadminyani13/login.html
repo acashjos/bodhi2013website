@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Bodhiyani'13 Admin Login</title>
+<meta charset="UTF-8" />
+<meta name="Designer" content="ynos1234">
+<meta name="Author" content="Akash Anto Amal">
+<link rel="stylesheet" type="text/css" href="css/login_reset.css">
+<link rel="stylesheet" type="text/css" href="css/login_structure.css">
+<link rel="stylesheet" href="http://www.bodhiofficial.in/css/auth-buttons.css">
+</head>
+
+<body>
+
+<a class="btn-auth btn-facebook large" href="fb_connect.php" id="fb-login">
+    Sign in with <b>Facebook</b>
+</a>
+
+<form method="post" action="index.php" class="box login">
+	<fieldset class="boxBody">
+	  <label>Username</label>
+	  <input type="text" tabindex="1" name="user" placeholder="Username" required>
+	  <label>Password</label>
+	  <input type="password" name="pass" tabindex="2" placeholder="Password" required>
+	</fieldset>
+	<footer>
+	  <label></label>
+	  <input type="submit" class="btnLogin" value="Login" tabindex="4">
+      <input type="hidden" name="login" value="1" />
+	</footer>
+</form>
+<footer id="main">
+
+</footer>
+</body>
+</html>

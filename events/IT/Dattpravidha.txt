@@ -1,0 +1,36 @@
+﻿##DATTPRAVIDHA (SQL Queries)
+
+#DESCRIPTION:
+This event aims to test the competitor's knowledge in SQL and relational databases. Get ready to mine your way to victory!
+
+#RULES:
+1)  The rules mentioned in this <a href="http://www.bit.ly/gen_rules">link</a> are applicable.
+2)  Maximum time: 2 hrs
+3)  Individual event
+4)  Participants will have access only to SQLPlus. (Oracle 9i)
+5)  Schema of the db will be provided to each participant.
+
+#PRIZE MONEY:
+1ST  PRIZE  : Rs. 5,000 
+2ND  PRIZE : Rs. 2,000
+3RD  PRIZE : Rs. 1,000
+
+#VENUE:
+DBMS (B-104)
+
+#TIME & DATE:
+30th September, 10:00 am - 1:00 pm
+ 
+#STAFF COORDINATORS:
+Ms. Anju Susan G 
+Mob: 9846132699
+
+Ms. Diana Baby
+Mob: 9497794433
+
+#STUDENT COORDINATORS:
+Aravind J 
+Mob: 8089096538
+
+Mariya Sunny  
+Mob: 8086299321
